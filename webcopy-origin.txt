@@ -1,0 +1,208 @@
+Uri: https://diia.ml/bkatya.htm
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\bkatya.htm
+Content Type: text/html
+
+Uri: https://diia.ml/access/favicon.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\favicon.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/main.css?878765566
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\main.css
+Content Type: text/css
+
+Uri: https://diia.ml/access/pro.min.css?878765566
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\pro.min.css
+Content Type: text/css
+
+Uri: https://diia.ml/access/swiper-bundle.css
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\swiper-bundle.css
+Content Type: text/css
+
+Uri: https://diia.ml/access/swiper-bundle.min.css
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://diia.ml/access/swiper-bundle.js
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\swiper-bundle.js
+Content Type: application/x-javascript
+
+Uri: https://diia.ml/access/swiper-bundle.min.js
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://diia.ml/access/jquery.min.js
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://diia.ml/access/anime.js
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\anime.js
+Content Type: application/x-javascript
+
+Uri: https://diia.ml/access/scroll-lock.js
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\scroll-lock.js
+Content Type: application/x-javascript
+
+Uri: https://diia.ml/access/jquery.marquee.min.js
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\jquery.marquee.min.js
+Content Type: application/x-javascript
+
+Uri: https://diia.ml/access/main.js
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\main.js
+Content Type: application/x-javascript
+
+Uri: https://diia.ml/access/e-Ukraine-Regular.woff
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\e-Ukraine-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://diia.ml/access/e-UkraineHead-Medium.woff
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\e-UkraineHead-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://diia.ml/access/icons/arrow.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\arrow.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/1.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\1.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/2.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\2.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/3.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\3.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/4.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\4.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/5.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\5.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/6.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\6.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/7.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\7.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/8.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\8.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/9.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\9.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/10.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\10.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/11.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\11.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/12.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\12.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/copy.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\copy.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/gerb.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\gerb.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/dots.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\dots.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/qr.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\qr.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/diya.svg
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\diya.svg
+Content Type: image/svg+xml
+
+Uri: https://diia.ml/access/icons/docin.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\docin.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/ok.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\ok.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/docac.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\docac.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/posin.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\posin.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/posac.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\posac.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/notin.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\notin.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/notac.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\notac.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/menuin.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\menuin.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/menuac.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\menuac.png
+Content Type: image/png
+
+Uri: https://diia.ml/nu1q5DK.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\nu1q5DK.png
+Content Type: image/png
+
+Uri: https://diia.ml/9aRH1Vs.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\9aRH1Vs.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/shtrihinc.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\shtrihinc.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/shtrihact.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\shtrihact.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/qrcodeact.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\qrcodeact.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/qrcodeinc.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\qrcodeinc.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/uasign.svg
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\uasign.svg
+Content Type: image/svg+xml
+
+Uri: https://diia.ml/access/eblo.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\eblo.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/krest.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\krest.png
+Content Type: image/png
+
+Uri: https://diia.ml/access/icons/3kita.png
+File Name: C:\Users\LENOVO\Desktop\уч\diia.ml\access\icons\3kita.png
+Content Type: image/png
+
